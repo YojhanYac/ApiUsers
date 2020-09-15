@@ -14,6 +14,9 @@ Slim PSR-7:                          composer require slim/psr7
 
 ## API URLs:
 ```
+Collection:                          ApiUsers.postman_collection.json
+```
+```
 GET Mostrar clientes:                http://localhost/API_Usuarios/public/api/clientes
 
 
