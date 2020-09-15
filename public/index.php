@@ -14,7 +14,7 @@ require '../src/rutas/clientes.php';
 
 $app->get('/hello/{name}', function (Request $request, Response $response, $args) {
     $name = $args['name'];
-    $response->getBody()->write("Hello world 1! $name");
+    $response->getBody()->write("Hello world! $name");
     return $response;
 });
 
