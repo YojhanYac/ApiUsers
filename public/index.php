@@ -1,4 +1,8 @@
 <?php
+
+// Creación de una RESTFUL API o API REST con slim framework (PHP, MySql, PDO)
+// https://www.youtube.com/watch?v=iLRjbGC6jIs&ab_channel=DominiCode
+
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Factory\AppFactory;
