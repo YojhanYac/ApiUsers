@@ -2,6 +2,7 @@
 
 // Creación de una RESTFUL API o API REST con slim framework (PHP, MySql, PDO)
 // POSTMAN, XAMP, MySQL Workbench, GIT Bash
+// https://petstore.swagger.io/#/pet
 
 // DominiCode:                          https://www.youtube.com/watch?v=iLRjbGC6jIs&ab_channel=DominiCode
 // Slim 4 Documentation:                http://www.slimframework.com/docs/v4
